@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="menu-container">
       <header>
-        <h1>Our Restaurant Menu</h1>
+        <h1>Our Menu</h1>
         <p>Take-out Cafe </p>
       </header>
 
