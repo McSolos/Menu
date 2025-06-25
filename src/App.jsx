@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import menuImage from './assets/WhatsApp Image 2025-04-30 at 21.41.29_05b5be13.jpg';
+import menuImage from './assets/Menu.jpg';
 import './App.css';
 
 function App() {
