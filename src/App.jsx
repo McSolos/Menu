@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import menuImage from './assets/Menu.jpg';
+import menuImage from './assets/satp1.jpg';
 import './App.css';
 
 function App() {
